@@ -34,6 +34,9 @@ Usage:
 
 2. Push select to dispense. 
 
+Notes:
+* Variations in motor voltage and RPM can be handled in the code, it is sufficient torque that is important.
+
 TODO:
 
 1. Fix noice box for arduino
