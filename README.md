@@ -39,4 +39,4 @@ Notes:
 
 TODO:
 
-1. Fix noice box for arduino
+1. Fix nice box for arduino
