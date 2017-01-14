@@ -1,12 +1,13 @@
 # oats_dispenser
 Arduino based dispenser for oats
+![Assembly](images/full_assembly.JPG)
 
 Hardware:
 * Arduino UNO
 * LCD Keypad shield
 * High torque DC motor, 12rpm, 12V, 4mm shaft (avoid the N20 motors, they are to weak)
 * L9110 H-bridge Motor Driver (search for it in ebay!)
-* Cereal dispenser (see picture in repo, search for e.g. PASTA CEREAL DISPENSER DRY FOOD STORAGE CONTAINER DISPENSE MACHINE)
+* Cereal dispenser ([picture](images/dispenser.jpg), search for e.g. PASTA CEREAL DISPENSER DRY FOOD STORAGE CONTAINER DISPENSE MACHINE)
 * Connection wires
 
 3D-printed:
@@ -18,15 +19,15 @@ Assembly:
 
 2. Put a very long 6mm drill through the hole of the shaft. Drill through the stand, this is the hole where the motor will be mounted.
 
-3. On the back side of the stand make the hole bigger, around 25mm diameter, and make small wholes for the screws in the inner wall. These screws will fix the motor position during operation. Wait with mounting of the motor. [Motor from back of stand](images/motor_back_of_stand.JPG).
+3. On the back side of the stand make the hole bigger, around 25mm diameter, and make small wholes for the screws in the inner wall. These screws will fix the motor position during operation. Wait with mounting of the motor. ![Motor from back of stand](images/motor_back_of_stand.JPG).
 
 4. Print the shaft adapter.
 
 5. Put the cog-wheel back but with the shaft pointing towards the back instead of the front. Wiggle the container in position, put the adapter on the cof-wheel shaft and put the motor shaft in the other end of the adapter.  [Shaft adapter] (images/shaft_adapter_in_place.JPG), [Shaft adapter from other angle] (images/shaft_Adapter_other angle.JPG)
 
-6. Use screws to fix the motor in position. Screws are visible here: [Shaft adapter] (images/shaft_adapter_in_place.JPG), [Shaft adapter from other angle] (images/shaft_Adapter_other angle.JPG)
+6. Use screws to fix the motor in position. Screws are visible here: ![Shaft adapter] (images/shaft_adapter_in_place.JPG), [Shaft adapter from other angle] (images/shaft_Adapter_other angle.JPG)
 
-7. Assemble arduino and shield, connect motor driver and motor, see code for pin numbers. [Arduino and shield](images/arduino+shield+driver.JPG)
+7. Assemble arduino and shield, connect motor driver and motor, see code for pin numbers. ![Arduino and shield](images/arduino+shield+driver.JPG)
 
 Usage:
 
