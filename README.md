@@ -23,9 +23,9 @@ Assembly:
 
 4. Print the shaft adapter.
 
-5. Put the cog-wheel back but with the shaft pointing towards the back instead of the front. Wiggle the container in position, put the adapter on the cof-wheel shaft and put the motor shaft in the other end of the adapter.  [Shaft adapter] (images/shaft_adapter_in_place.JPG), [Shaft adapter from other angle] (images/shaft_Adapter_other angle.JPG)
+5. Put the cog-wheel back but with the shaft pointing towards the back instead of the front. Wiggle the container in position, put the adapter on the cof-wheel shaft and put the motor shaft in the other end of the adapter.![Shaft adapter from other angle] (images/shaft_Adapter_other angle.JPG)
 
-6. Use screws to fix the motor in position. Screws are visible here: ![Shaft adapter] (images/shaft_adapter_in_place.JPG), [Shaft adapter from other angle] (images/shaft_Adapter_other angle.JPG)
+6. Use screws to fix the motor in position. Screws are visible here: ![Shaft adapter] (images/shaft_adapter_in_place.JPG)
 
 7. Assemble arduino and shield, connect motor driver and motor, see code for pin numbers. ![Arduino and shield](images/arduino+shield+driver.JPG)
 
