@@ -27,3 +27,13 @@ Assembly:
 6. Use screws to fix the motor in position. 
 
 7. Assemble arduino and shield, connect motor driver and motor, see code for pin numbers.
+
+Usage:
+
+1. Use up and down button to select number of portions.
+
+2. Push select to dispense.
+
+TODO:
+
+1. Fix noice box for arduino
