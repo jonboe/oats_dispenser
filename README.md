@@ -19,7 +19,7 @@ Assembly:
 
 2. Put a very long 6mm drill through the hole of the shaft. Drill through the stand, this is the hole where the motor will be mounted.
 
-3. On the back side of the stand make the hole bigger, around 25mm diameter, and make small wholes for the screws in the inner wall. These screws will fix the motor position during operation. Wait with mounting of the motor. ![Motor from back of stand](images/motor_back_of_stand.JPG).
+3. On the back side of the stand make the hole bigger, around 25mm diameter, and make small holes for the screws in the inner wall. These screws will fix the motor position during operation. Wait with mounting of the motor. ![Motor from back of stand](images/motor_back_of_stand.JPG).
 
 4. Print the shaft adapter.
 
