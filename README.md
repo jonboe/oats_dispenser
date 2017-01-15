@@ -29,6 +29,9 @@ Assembly:
 
 7. Assemble arduino and shield, connect motor driver and motor, see code for pin numbers. ![Arduino and shield](images/arduino+shield+driver.JPG)
 
+8. If not already present, download IDE from [aduino.cc](https://www.arduino.cc/en/Main/Software). Upload sketch to arduino.
+
+
 Usage:
 
 1. Use up and down button to select number of portions.
